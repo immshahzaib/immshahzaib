@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![plot](./images/shahzaib.png)
-I'm a passionate **Senior Software Engineer** with over 10 years of experience in web application development. I enjoy building efficient, scalable solutions and am always eager to learn and share knowledge with the community.
+I'm a passionate **Senior Software Engineer** with over 8 years of experience in web application development. I enjoy building efficient, scalable solutions and am always eager to learn and share knowledge with the community.
 
 ### 🛠️ My Specializations
 - **Front-End:** Vue.js, Vue-Router, Nuxt.js, Vuetify, Tailwind CSS, Bootstrap, JavaScript, jQuery
