@@ -41,8 +41,4 @@ I love discussing software engineering, new tech, and impactful projects. Feel f
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammshahzaib&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammshahzaib&layout=compact&theme=radical)
 
-### 📊 GitHub Stats From Devparagon Company Account As Employee
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaibdevparagon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibdevparagon&layout=compact&theme=radical)
-
 Thanks for stopping by! Looking forward to connecting and building awesome things together 🚀
